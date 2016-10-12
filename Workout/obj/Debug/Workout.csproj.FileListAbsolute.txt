@@ -1,0 +1,12 @@
+C:\Users\Matthew\Documents\Workout\Workout\Workout\bin\Debug\Workout.exe.config
+C:\Users\Matthew\Documents\Workout\Workout\Workout\obj\Debug\Workout.MainWindow.resources
+C:\Users\Matthew\Documents\Workout\Workout\Workout\obj\Debug\Workout.Properties.Resources.resources
+C:\Users\Matthew\Documents\Workout\Workout\Workout\obj\Debug\Workout.csproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Workout\Workout\Workout\bin\Debug\Workout.exe
+C:\Users\Matthew\Documents\Workout\Workout\Workout\bin\Debug\Workout.pdb
+C:\Users\Matthew\Documents\Workout\Workout\Workout\obj\Debug\Workout.exe
+C:\Users\Matthew\Documents\Workout\Workout\Workout\obj\Debug\Workout.pdb
+C:\Users\Matthew\Documents\Workout\Workout\Workout\obj\Debug\Workout.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\GitHub\Workout\Workout\bin\Debug\Workout.exe.config
+C:\Users\Matthew\Documents\GitHub\Workout\Workout\obj\Debug\Workout.exe
+C:\Users\Matthew\Documents\GitHub\Workout\Workout\obj\Debug\Workout.pdb
