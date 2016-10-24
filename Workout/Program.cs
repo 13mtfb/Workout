@@ -19,6 +19,4 @@ namespace Workout
             Application.Run(new MainWindow());
         }
     }
-
-
 }
